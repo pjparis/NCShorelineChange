@@ -5,4 +5,8 @@
 /scripts_notebooks/NC_Shoreline_Analysis.*
 /scripts_notebooks/NH_Prototype_Shoreline_Analysis.*
 /scripts_notebooks/gmt.history
+<<<<<<< HEAD
 /scripts_notebooks_PlottingMrSID.sh
+=======
+/scripts_notebooks/PlottingMrSID.sh
+>>>>>>> 97da99b0d207e79b10bd12c8378cf7e4563d660f
